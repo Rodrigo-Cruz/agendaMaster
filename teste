@@ -1,0 +1,27 @@
+
+//instalar npm install
+//./node_modules/.bin/lite-server
+//npm run front e run back(foi automatizado no package.json)
+//ls para listar
+/*
+create - post
+retreve - get
+update - put
+delete - delete
+
+baixar postman plugin de teste
+
+
+this = este
+
+propriedades = dados q vc acessa
+metódos =  ações(como vc vai acessar)
+
+metotodos = getElementByid()
+window.document.getElementById("name")
+
+querySelector()  // retorna o primiero dado que encontrar
+querySelectorAll() //retorna todos os dados encontrados
+
+e.preventDefault();  // previninir a ação padrão ("recarregar a pagina")
+*/
